@@ -1,0 +1,1 @@
+Just a fun project to learn to read/write keyboard commands with Python. Program will push f1 for you every five seconds, press escape to exit.
